@@ -5,6 +5,7 @@ import java.lang.*
             firstjavatest()
             {
                 System.out.println("Hello");
+                System.out.println("Everything seems to be fine now");
             }
         }
 
